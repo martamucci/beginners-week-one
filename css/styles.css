@@ -1,0 +1,31 @@
+html body{
+    background-image: url('https://media.giphy.com/media/xThuWlwSQf54dWOh3i/giphy.gif');
+    background-size: cover;
+
+
+
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+html {
+  font-family: 'Lacquer', sans-serif;
+}
+
+.top {
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+
+
+
+}
+
+
+
+h1 {
+
+    color: purple;
+
+}
